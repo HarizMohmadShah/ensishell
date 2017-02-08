@@ -1,0 +1,28 @@
+Start testing: Oct 19 17:00 CEST
+----------------------------------------------------------
+1/1 Testing: UnitShellTests
+1/1 Test: UnitShellTests
+Command: "/user/5/.base/binmohmh/home/tpl_sepc/ensimag-shell/tests/allShellTests.rb"
+Directory: /user/5/.base/binmohmh/home/tpl_sepc/ensimag-shell/build
+"UnitShellTests" start time: Oct 19 17:00 CEST
+Output:
+----------------------------------------------------------
+Run options: --seed 1177
+
+# Running:
+
+........pipe 12 12
+..
+
+Finished in 0.422642s, 23.6607 runs/s, 40.2232 assertions/s.
+
+10 runs, 17 assertions, 0 failures, 0 errors, 0 skips
+<end of output>
+Test time =   0.63 sec
+----------------------------------------------------------
+Test Passed.
+"UnitShellTests" end time: Oct 19 17:00 CEST
+"UnitShellTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 19 17:00 CEST
